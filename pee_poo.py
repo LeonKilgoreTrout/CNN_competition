@@ -125,3 +125,4 @@ def conv_n_pool(img_path, kernel='horizontal', stride=1, pooling=False, IMG_SIZE
         return choose_pooling(img_, pooling)
 
     return img_
+
